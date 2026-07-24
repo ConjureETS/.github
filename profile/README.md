@@ -42,6 +42,6 @@ Nous collaborons aussi avec des partenaires académiques et industriels pour enr
 
 Rejoignez notre [serveur Discord](https://discord.com/invite/uapfNU9XSc) pour intégrer le club, proposer vos idées de projet et échanger directement avec nos membres. Notre porte est toujours ouverte!
 
-## 🚀 IMPORTANT : migration vers Gitea
+## 🚀 IMPORTANT : migration vers Forgejo
 
-As of 2024, nous utilisons maintenant un serveur [**Gitea**](https://gitea.clubconjure.com) pour héberger la majorité de nos projets actifs.
+Depuis 2026, nous utilisons maintenant un serveur [**Forgejo**](https://git.etsmtl.club) pour héberger la majorité de nos projets actifs.
